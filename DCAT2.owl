@@ -14,7 +14,7 @@
      xmlns:skos="http://www.w3.org/2004/02/skos/core#"
      xmlns:schema="http://schema.org/">
     <owl:Ontology rdf:about="http://purl.org/dcat2">
-        <owl:imports rdf:resource="http://purl.org/mrowl"/>
+        <owl:imports rdf:resource="https://raw.githubusercontent.com/jkesanie/SemanticDCAT-AP/main/mrOWL.owl"/>
         <owl:imports rdf:resource="http://www.w3.org/2006/vcard/ns"/>
         <owl:imports rdf:resource="http://www.w3.org/ns/dcat"/>
     </owl:Ontology>
